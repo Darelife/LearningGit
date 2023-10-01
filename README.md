@@ -17,6 +17,6 @@ git switch [branch]<br>
 
 ## To contribute
 fork<br>
-clone
+clone <br>
 pull<br>
 
